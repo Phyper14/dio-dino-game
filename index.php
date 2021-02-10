@@ -1,2 +1,3 @@
 <?php
-echo file_get_contents(sources/index.html);
+$oi = file_get_contents("index.html");
+echo $oi;
