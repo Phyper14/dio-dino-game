@@ -1,3 +1,1 @@
-<?php
-$oi = file_get_contents("index.html");
-echo $oi;
+<?php include_once('home.html'); ?>
